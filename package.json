@@ -1,0 +1,13 @@
+{
+  "name": "inhouse-bot",
+  "version": "1.0.0",
+  "description": "LOL 5v5 inhouse bot, for draft or shuffled picks",
+  "main": "bot.js",
+  "author": "wilson",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "mongoose": "^5.9.2",
+    "winston": "^3.2.1"
+  }
+}
